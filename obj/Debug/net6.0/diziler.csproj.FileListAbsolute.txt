@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/bin/Debug/net6.0/diziler
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/bin/Debug/net6.0/diziler.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/bin/Debug/net6.0/diziler.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/bin/Debug/net6.0/diziler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/bin/Debug/net6.0/diziler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/refint/diziler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/diziler.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/diziler/obj/Debug/net6.0/ref/diziler.dll
